@@ -5,7 +5,6 @@ ApplyPilot is an AI agent that reads your resume and a job description, generate
 ## Features
 - GPT-4o resume/job matching
 - Cover letter generation
-- Gmail integration
 - Daily cron job
 - Streamlit UI
 
